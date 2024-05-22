@@ -32,6 +32,14 @@ Who needs documentation when you have the power of intuition? YOLO-Driven Develo
 
 Teamwork? Sure, but let's kick it up a notch. In YOLO-Driven Development, collaboration is an exercise in controlled chaos. Rally your teammates with the shared goal of adding more unpredictability to the mix. Assign tasks on a whim, switch roles randomly, and merge code without warning. The resulting blend of ideas and styles will surely keep everyone on their toes, and who knows, you might just stumble upon brilliance amidst the pandemonium!
 
+**8. You do not need a Deployment pipeline**.
+
+It's too much of a hassle to set up a Development, staging and production environment to catch bugs and eliminate downtime. Just do all that stuff on your production system. Anyways, the time saved can be put to much better use, like catching that one bug that regularly causes downtime. 
+
+**9. Backups are just storage hoggs**.
+
+You only live once, so you only deploy once. YOLO-driven Development means going all in with no way back, backups are for softies. What is the point anyway, it will be obsolete almost instantly.
+
 ----
 
 In conclusion, YOLO-Driven Development is not for everyone. It's a high-stakes game where the only certainty is uncertainty. But for those who dare to embrace the chaos, who scoff at conventional wisdom, and who thrive on the thrill of code that could crash at any moment, YOLO-Driven Development offers a wild ride that you'll never forget... if you survive it!
